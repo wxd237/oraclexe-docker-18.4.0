@@ -20,6 +20,7 @@
 # ---------------
 FROM oraclelinux:7-slim
 
+
 # Labels
 # ------
 LABEL "provider"="Oracle"                                               \
